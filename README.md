@@ -1,8 +1,11 @@
 ### Conflict practice
     Practicing conflicts on GitHub
 
-List of job
-    Data Analyst
-    Network security
-    Cloud manager
-    Developer
+<<<<<<< HEAD
+=======
+list of languages
+Python
+JavaScript
+Java
+Ruby
+>>>>>>> new_branch
